@@ -68,7 +68,7 @@ export default function Project() {
                 />
                 <p className="projectDescription">
                 A Figma design prototype showcasing the layout and user interface of my portfolio or resume project. This design 
-                serves as a blueprint for development, focusing on a clean and visually engaging layout. I used Figma's design 
+                serves as a blueprint for development, focusing on a clean and visually engaging layout. I used Figma&apos;s design 
                 tools to create a user-centric interface, ensuring a smooth transition from concept to code.
                     <a href="https://create-portfolio-eosin.vercel.app/" className="underline text-blue-400">
                         <i className="fas fa-link text-3xl"></i>
